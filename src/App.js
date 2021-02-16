@@ -1,6 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
-
+import 'tal'
 
 
 function App() {
