@@ -1,7 +1,6 @@
 import React from 'react'
 
 function CardItems({monsters,searchContent}) {
-    console.log(searchContent.length);
     return (
         <div className="flex flex-row flex-wrap mx-auto  justify-center  text-center">
             {
